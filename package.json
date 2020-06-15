@@ -1,0 +1,23 @@
+{
+  "name": "project_demo",
+  "version": "1.0.0",
+  "description": "a project demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/last-autumn/project_demo.git"
+  },
+  "keywords": [
+    "project",
+    "demo"
+  ],
+  "author": "autumn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/last-autumn/project_demo/issues"
+  },
+  "homepage": "https://github.com/last-autumn/project_demo#readme"
+}
